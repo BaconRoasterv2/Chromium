@@ -1,3 +1,3 @@
 # Chromium
 Chromium | Roblox Shared Script
-# script made by dev
+# Script made by SH_Dev and BaconRoasterv2
