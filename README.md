@@ -4,5 +4,5 @@ Chromium | Roblox Shared Script
 
 **Script Loader:**
 ```lua
-local
+local Loader = loadstring("iamaskidprobably.com")
 ```
